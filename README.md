@@ -19,7 +19,7 @@ Implement Leetcode Blind75 in Rust
 |6 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [src](https://github.com/k66inthesky/Leetcode-Rust/src/blob/main/152.rs) | Array | DP |  | Medium |
 |7 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [src](https://github.com/k66inthesky/Leetcode-Rust/src/blob/main/153.rs) | Array | BS[[註3]](#註3) |  | Medium |
 |8 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [src](https://github.com/k66inthesky/Leetcode-Rust/src/blob/main/33.rs) | Array | BS |  | Medium |
-|9 | []() | [src](https://github.com/k66inthesky/Leetcode-Rust/src/blob/main/.rs) |  |  |  |  |
+|9 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [src](https://github.com/k66inthesky/Leetcode-Rust/src/blob/main/88.rs) | Array | Two Pointers | Sorting | Easy |
 |10 | []() | [src](https://github.com/k66inthesky/Leetcode-Rust/src/blob/main/.rs) |  |  |  |  |
 
 <span id="註1"></span> 
